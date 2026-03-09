@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "GR4VITY G4ME",
+  "base_artist": "我儘ラキア",
+  "createdAt": "2026-03-09T13:22:56.363726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GR4VITY G4ME",
+      "artist": "WAGAMAMA RAKIA",
+      "has_synced": true,
+      "path": "select/01_GR4VITY_G4ME_WAGAMAMA_RAKIA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GR4VITY G4ME",
+      "artist": "我儘ラキア",
+      "has_synced": true,
+      "path": "select/02_GR4VITY_G4ME_我儘ラキア.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GR4VITY G4ME",
+      "artist": "我儘ラキア",
+      "has_synced": false,
+      "path": "select/pl_01_GR4VITY_G4ME_我儘ラキア.txt"
+    }
+  ]
+}
